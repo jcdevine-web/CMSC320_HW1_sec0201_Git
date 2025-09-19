@@ -15,3 +15,7 @@ Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines the two branches and saves full history of them both where rebasing creates a linear history with the commits being applied on top of each other.
 
+Q4: What are you looking forward to this semester?
+
+Answer: improving my Python skills
+
